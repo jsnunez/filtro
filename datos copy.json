@@ -1,0 +1,34 @@
+{
+    "blockbuster": {
+        "peliculas": {
+            "P01": {
+                "id": "P01",
+                "nombre": "Ocho apellidos marroquís",
+                "duracion": "97 min",
+                "sinopsis": "Carmen (Elena Irureta) quiere cumplir la última voluntad de José María, su marido y patriarca de la familia: recuperar el 'Sardinete', el primer barco pesquero de su flota, que se encuentra anclado en un puerto marroquí. En su viaje de Cantabria a Marruecos, la acompañarán su hija Begoña (Michelle Jenner) y el ex de esta, Guillermo (Julián López), desesperado por recuperar su amor. Entre choques culturales, descubrirán además el gran secreto de José María.",
+                "generos": {
+                    "G01": {
+                        "id": "G01",
+                        "nombre": "comedia"
+                    }
+                },
+                "actores": {
+                    "A01": {
+                        "id": "A01",
+                        "nombre": "Michelle Jenner ",
+                        "rol":"protagonista"
+                    }
+              
+                },
+                "formato":{
+                    "F01":{
+                        "id": "F01",
+                        "nombre":"DVD",
+                        "NroCopias":2,
+                        "valorPrestamo":500
+                    }
+                }
+            }
+        }
+    }
+}
